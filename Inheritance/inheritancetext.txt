@@ -1,0 +1,20 @@
+Is a relationship always implemented as public inheritance.
+
+But why?
+
+1. Private
+2. Protected
+3. public - is A relationship always
+
+
+constructor in inheritance
+When we create an object of class the constructor will call
+
+In heritance, When we create object of derived class, what will happen?
+
+In memory
+-When the child class object is created -- The memory will assing to child class and parent class
+-constructor ka kaam hain member ko initialise karna
+
+--Destructor in inheritance
+-- Object ke khatam ho jane se phele koi bhi resource ko close karna ho 

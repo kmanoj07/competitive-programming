@@ -1,0 +1,7 @@
+Strings are continous characters set
+
+String str;
+
+str = "Manoj"
+
+Array of character is called string

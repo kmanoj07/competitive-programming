@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SubArray",
+            "request": "launch",
+            "mainClass": "SubArray",
+            "projectName": "Data Structur my code school_8fdef6d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Contest1",
+            "request": "launch",
+            "mainClass": "Contest1",
+            "projectName": "Data Structur my code school_8fdef6d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch EquilibriumIndex",
+            "request": "launch",
+            "mainClass": "Javacode.EquilibriumIndex",
+            "projectName": "Data Structur my code school_8fdef6d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pickformbothside",
+            "request": "launch",
+            "mainClass": "Javacode.Pickformbothside",
+            "projectName": "Data Structur my code school_8fdef6d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch SecondLargest",
+            "request": "launch",
+            "mainClass": "Javacode.SecondLargest",
+            "projectName": "Data Structur my code school_8fdef6d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringPractice",
+            "request": "launch",
+            "mainClass": "Javacode.StringPractice",
+            "projectName": "Data Structur my code school_8fdef6d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeftMultipleRotation",
+            "request": "launch",
+            "mainClass": "LeftMultipleRotation",
+            "projectName": "Data Structur my code school_8fdef6d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch NondeacreasingSubArrayqueries",
+            "request": "launch",
+            "mainClass": "NondeacreasingSubArrayqueries",
+            "projectName": "Data Structur my code school_8fdef6d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch RangeSumQuery",
+            "request": "launch",
+            "mainClass": "RangeSumQuery",
+            "projectName": "Data Structur my code school_8fdef6d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "Data Structur my code school_8fdef6d0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Squareroot",
+            "request": "launch",
+            "mainClass": "Squareroot",
+            "projectName": "Data Structur my code school_8fdef6d0"
+        }
+    ]
+}

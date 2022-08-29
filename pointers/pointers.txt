@@ -1,0 +1,4 @@
+This type of variable only contains the address
+or will hold the address of another declared variable
+
+This is the way we move through pointers

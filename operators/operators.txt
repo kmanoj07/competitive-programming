@@ -1,0 +1,16 @@
+What are operators?
+This is already known by the compiler.
+This are the symbol that compiler knows what to do when they are use
+
+1. Arithmatic operators
++,-,*,/(qoutient) ,%(remainder)
+++ -->increment operator
+-- --> decrement operator
+
+2. Logical operator
+Logical AND operator A && B yan dono ka hona jaroori hai.
+Logical OR A || B
+Logical ! true - false, false - true
+
+3.Relational operator
+==, !=, <=, >=, <, >
